@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/zaman-el-awel/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Zaman El Awel](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get a Licensing Quote for Zaman El Awel](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
