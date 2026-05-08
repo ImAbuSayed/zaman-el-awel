@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Zaman El Awel
+
+This log tracks the cryptographic history and versioning for the song **Zaman El Awel** (zaman-el-awel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T01:10:43.290472 | `v1` | `da2c25b1a65b4b4f7a5e3048cfc36c9f020b0fe099ff5c7ca59a0b03c9f4e753` | `daac3879b357f2b1b1508665f8c5bb1d93da1b83b021357657b57d7126e8ee7e` | `2026-05-09_zaman-el-awel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
